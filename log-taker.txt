@@ -1192,3 +1192,14 @@
 3/5/2025 | 12:37:20 PM | INFO | Trying to check user miner status... 
 3/5/2025 | 12:37:21 PM | INFO | Last mining time: 3/5/2025, 8:25:12 AM
 3/5/2025 | 12:37:21 PM | WARN | Mining already started, next mining time is: 3/6/2025, 8:25:12 AM
+3/5/2025 | 4:30:15 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/5/2025 | 4:30:17 PM | INFO | Start process for wallet 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+3/5/2025 | 4:30:17 PM | INFO | Trying To Login for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+3/5/2025 | 4:30:18 PM | ERROR | Failed to login: Request failed with status code 502
+3/5/2025 | 4:30:18 PM | WARN | Retrying... (2 attempts left) 
+3/5/2025 | 4:30:22 PM | INFO | Login successful... 
+3/5/2025 | 4:30:22 PM | INFO | Trying to check user info... 
+3/5/2025 | 4:30:22 PM | INFO | User ID: 102616451 | Twitter: @melinazavira | Total Points: 456000 
+3/5/2025 | 4:30:22 PM | INFO | Trying to check user miner status... 
+3/5/2025 | 4:30:23 PM | INFO | Last mining time: 3/5/2025, 8:25:12 AM
+3/5/2025 | 4:30:23 PM | WARN | Mining already started, next mining time is: 3/6/2025, 8:25:12 AM

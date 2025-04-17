@@ -3558,3 +3558,16 @@
 4/17/2025 | 12:39:18 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/17/2025 | 12:39:18 PM | INFO | Trying to activate mining on-chain for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
 4/17/2025 | 12:39:39 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb8a3c0fe622f335453307ec5b611eb3b24662386f364b8d8f801b8b09c6c0685 
+4/17/2025 | 4:25:13 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:25:13 PM | INFO | Start process for wallet 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+4/17/2025 | 4:25:14 PM | INFO | Trying To Login for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+4/17/2025 | 4:25:15 PM | INFO | Login successful... 
+4/17/2025 | 4:25:15 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:25:15 PM | INFO | User ID: 102616451 | Twitter: @melinazavira | Total Points: 1344000 
+4/17/2025 | 4:25:15 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:25:42 PM | INFO | Last mining time: 4/16/2025, 8:27:18 AM
+4/17/2025 | 4:25:42 PM | INFO | Trying to start Mining for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+4/17/2025 | 4:26:08 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/17/2025 | 4:26:08 PM | INFO | Trying to activate mining on-chain for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+4/17/2025 | 4:26:30 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
+4/17/2025 | 4:26:30 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 

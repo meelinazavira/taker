@@ -8062,3 +8062,16 @@
 7/5/2025 | 8:25:50 AM | INFO | Trying to activate mining on-chain for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
 7/5/2025 | 8:25:54 AM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86c820465818380831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a0fcbec5989dee72a948d595e2c8ad0432b96b75110bc0ba82f227ffb57fae61d4a02d2c17c1e82d9cfdc06f734f42a2cf35c1ad2555e102ab5088b59d8c22cf5516"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 7/5/2025 | 8:25:54 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+7/5/2025 | 12:38:43 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/5/2025 | 12:38:44 PM | INFO | Start process for wallet 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+7/5/2025 | 12:38:45 PM | INFO | Trying To Login for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+7/5/2025 | 12:38:45 PM | INFO | Login successful... 
+7/5/2025 | 12:38:45 PM | INFO | Trying to check user info... 
+7/5/2025 | 12:38:46 PM | INFO | User ID: 102616451 | Twitter: @melinazavira | Total Points: 3024000 
+7/5/2025 | 12:38:46 PM | INFO | Trying to check user miner status... 
+7/5/2025 | 12:38:47 PM | INFO | Last mining time: 7/4/2025, 4:31:03 AM
+7/5/2025 | 12:38:47 PM | INFO | Trying to start Mining for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+7/5/2025 | 12:38:48 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+7/5/2025 | 12:38:48 PM | INFO | Trying to activate mining on-chain for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+7/5/2025 | 12:38:52 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86c820465818380831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a0fcbec5989dee72a948d595e2c8ad0432b96b75110bc0ba82f227ffb57fae61d4a02d2c17c1e82d9cfdc06f734f42a2cf35c1ad2555e102ab5088b59d8c22cf5516"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
+7/5/2025 | 12:38:52 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 

@@ -8817,3 +8817,12 @@
 7/18/2025 | 12:47:37 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/18/2025 | 12:47:37 PM | INFO | Trying to activate mining on-chain for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
 7/18/2025 | 12:47:42 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0a134d4b27a658d3d298f11b33167f0a57102f57088944e0a883ba6b53251194 
+7/18/2025 | 4:28:43 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/18/2025 | 4:28:43 PM | INFO | Start process for wallet 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+7/18/2025 | 4:28:44 PM | INFO | Trying To Login for wallet: 0x01474f8981D35Fba4894E3a196dAC992024ffe2f 
+7/18/2025 | 4:28:44 PM | INFO | Login successful... 
+7/18/2025 | 4:28:44 PM | INFO | Trying to check user info... 
+7/18/2025 | 4:28:45 PM | INFO | User ID: 102616451 | Twitter: @melinazavira | Total Points: 3312000 
+7/18/2025 | 4:28:45 PM | INFO | Trying to check user miner status... 
+7/18/2025 | 4:28:46 PM | INFO | Last mining time: 7/18/2025, 12:47:42 PM
+7/18/2025 | 4:28:46 PM | WARN | Mining already started, next mining time is: 7/19/2025, 12:47:42 PM
